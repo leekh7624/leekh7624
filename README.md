@@ -11,6 +11,6 @@ Currently working at the Statistics Korea.
 
 ### 📫 Get in Touch
 - Email: devtinatina@naver.com  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/kyuho-lee)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/규호-이-585334194)
 
 ![Kyuho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuho-lee&show_icons=true&theme=radical)
