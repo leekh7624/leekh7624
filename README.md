@@ -6,8 +6,8 @@ Currently working at the Statistics Korea.
 - **Frameworks**: PyTorch, TensorFlow, LangChain  
 - **Tools**: Git, Docker, Hugging Face  
 
-![GitHub Followers](https://img.shields.io/github/followers/kyuho-lee?style=social)
-![Most Used Language](https://img.shields.io/github/languages/top/kyuho-lee?style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/leekh7624?style=social)
+![Most Used Language](https://img.shields.io/github/languages/top/leekh7624?style=flat-square)
 
 ### 📫 Get in Touch
 - Email: devtinatina@naver.com  
